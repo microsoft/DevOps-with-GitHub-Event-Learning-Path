@@ -38,4 +38,4 @@ We can build and develop software quickly and securely, but how do we get it int
 
 ### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/HQOiJILFXx0)

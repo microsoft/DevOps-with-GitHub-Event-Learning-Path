@@ -35,4 +35,4 @@ How do I work effectively with my development and operations teams?
 
 ### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/ReuMMsmpHKk)

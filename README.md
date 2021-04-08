@@ -25,7 +25,7 @@ As teams grow, finding ways to effectively work together is vital. Communication
 
 #### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/ReuMMsmpHKk)
 
 
 
@@ -50,7 +50,7 @@ And Finally, we need automation surrounding all our workflows to help enable eve
 
 #### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/oPWwLr0oHkw)
 
 
 ## [ADO30] Building in Security and Quality
@@ -68,7 +68,7 @@ Security and compliance are core concerns for organizations. Adopting DevOps pra
 
 #### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/nxL_40ndJ4I)
 
 
 ## [ADO40] Delivering Change to the Cloud
@@ -88,7 +88,7 @@ Tailwind Traders realises they need to automate their deployments, just as they 
 
 #### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/HQOiJILFXx0)
 
 
 ## [ADO50] Operating Software in the Cloud
@@ -106,7 +106,7 @@ DevOps doesn't stop when you deploy. Incident response, identity management, and
 
 #### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/IMO80VwPfVo)
 
 
 

@@ -45,4 +45,4 @@ Now that we are working together with shared tooling, how do we as a larger tech
 
 ### **Resources:**
 * [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource]()
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/oPWwLr0oHkw)
