@@ -34,5 +34,5 @@ How do I work effectively with my development and operations teams?
 * GitHub Codespaces
 
 ### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/ReuMMsmpHKk)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado10)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado10)

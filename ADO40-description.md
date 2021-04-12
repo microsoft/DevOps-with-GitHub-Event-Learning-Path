@@ -37,5 +37,5 @@ We can build and develop software quickly and securely, but how do we get it int
 * Azure App Service / Azure Functions 
 
 ### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/HQOiJILFXx0)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado40)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado40)
