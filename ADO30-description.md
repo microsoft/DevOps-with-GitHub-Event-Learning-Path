@@ -38,5 +38,5 @@ We can build and develop software more quickly, but misconfiguration and securit
 * Azure Kubernetes Service (LPK) 
 
 ### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/nxL_40ndJ4I)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado30)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado30)

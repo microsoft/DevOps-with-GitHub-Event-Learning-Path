@@ -37,5 +37,5 @@ How can we operate our software in the cloud more effectively at scale?
 * Azure Logic Apps / Azure Functions 
 
 ### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/IMO80VwPfVo)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado50)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado50)

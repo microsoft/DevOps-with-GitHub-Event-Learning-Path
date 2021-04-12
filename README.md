@@ -24,8 +24,8 @@ As teams grow, finding ways to effectively work together is vital. Communication
 
 
 #### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/ReuMMsmpHKk)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado10)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado10)
 
 
 
@@ -49,8 +49,8 @@ And Finally, we need automation surrounding all our workflows to help enable eve
 * Automate your workflow to add consistency and remove drudgery. 
 
 #### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/oPWwLr0oHkw)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado20)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado20)
 
 
 ## [ADO30] Building in Security and Quality
@@ -67,8 +67,8 @@ Security and compliance are core concerns for organizations. Adopting DevOps pra
 * Use infrastructure as code and policy as code to provide consistency in environments. 
 
 #### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/nxL_40ndJ4I)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado30)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado30)
 
 
 ## [ADO40] Delivering Change to the Cloud
@@ -87,8 +87,8 @@ Tailwind Traders realises they need to automate their deployments, just as they 
 * Keep secrets in as few places as possible. 
 
 #### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/HQOiJILFXx0)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado40)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado40)
 
 
 ## [ADO50] Operating Software in the Cloud
@@ -105,8 +105,8 @@ DevOps doesn't stop when you deploy. Incident response, identity management, and
 * Use automation to deliver change into the environment – remove manual steps. 
 
 #### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/IMO80VwPfVo)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado50)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado50)
 
 
 

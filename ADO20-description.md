@@ -44,5 +44,5 @@ Now that we are working together with shared tooling, how do we as a larger tech
 * Visual Studio Code 
 
 ### **Resources:**
-* [PowerPoint Resources and speaker notes]()
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://youtu.be/oPWwLr0oHkw)
+* [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado20)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado20)
