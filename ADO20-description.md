@@ -8,7 +8,7 @@ This includes planning and tracking all units of work for the project. With freq
 
 Managing source control changes are also important. We need to be in a deployable state at the end of every sprint. The main branch should be protected, yet changes being introduced should not be overly hampered and slowed down by the process. Being able to iterate quickly and safely is vital. 
 
-And Finally, we need automation surrounding all our workflows to help enable everything as well as add consistency in what we do. 
+And finally, we need automation surrounding all our workflows to help enable everything as well as add consistency in what we do. 
 
 ### **Long Description:**
 
@@ -28,7 +28,7 @@ Now that we are working together with shared tooling, how do we as a larger tech
 
 ### **Attendee Takeaways:**
 * Make work in progress visible with Azure boards. 
-* Use trunk-based development to keep integration pain down and master ready to ship. 
+* Use trunk-based development to keep integration pain down and main ready to ship. 
 * Automate your workflow to add consistency and remove drudgery. 
 
 ### **Concepts:**
@@ -45,4 +45,4 @@ Now that we are working together with shared tooling, how do we as a larger tech
 
 ### **Resources:**
 * [PowerPoint Resources and speaker notes](https://aka.ms/aaa/devops/slides/ado20)
-* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado20)
+* [Link to 45 min version of the session as Train-the-Trainer resource](https://aka.ms/aaa/devops/video/ado20) (demo at 13:11, 23:17 & 30:38)
